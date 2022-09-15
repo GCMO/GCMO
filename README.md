@@ -2,12 +2,15 @@
 
 Im currently working on boosting my Fullstack with React & NextJS & MongoDB projects 
 
-Personal Projects 💪🏻
-No	Project	Status	TechStack
-1	Portfolio site	✅	NextJS, MUI, Styled-Comp 
-2	Radio-Active	✅	React, MUI, Styled-Comp 
-3	React-TS-FullStack	🛠️	React/TS/󠁐MongoDB
-4	PuppiesAPI	✅	Typescript Ts
+## Personal Projects 
+
+| No|       Projects     | Status |         TechSTack        |    
+|---|:------------------:|-------:|-------------------------:|
+| 1 | Portfolio site     |   🛠️   | NextJS/MUI/Styled-Comp   |
+| 2 | Radio-Active       |   ✅   | MERN                     |
+| 3 | React-TS-FullStack |   🛠️   | React/TS/󠁐MongoDB         |
+| 4 | PuppiesAPI         |   ✅   | React/TS/󠁐NodeJS/Express  |
+
 
 📫 How to reach me:
 LinkedIn Email Github
