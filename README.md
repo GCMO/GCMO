@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Im currently working on boosting my Fullstack with React & NextJS & MongoDB projects 
+Im currently working on boosting my Fullstack with React, NextJS & MongoDB projects. 
+Please share ideas for cool portfolio projects and repos you wish collaboration with. 
 
 ## Personal Projects 
 
