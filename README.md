@@ -15,8 +15,10 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 
 
 📫 How to reach me:
+
 [LinkedIn]!(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-   Github
+
+  Github
    Email
 
 
