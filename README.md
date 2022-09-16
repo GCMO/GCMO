@@ -5,17 +5,19 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 
 ## Personal Projects 
 
-| No|       Projects     | Status |            TechSTack            |                                       REPOS                                  |
-|---|:------------------:|-------:|--------------------------------:|-----------------------------------------------------------------------------:|
-| 1 | Portfolio site     |   🛠️   | NextJS/MUI/Styled-Comp          |                                                                              |
-| 2 | Radio-Active       |   ✅   | React/JS/󠁐NodeJS/Express/MongoDB |                                                                              |
-| 3 | React-TS-FullStack |   🛠️   | React/TS/󠁐MongoDB                |                                                                              |
-| 4 | PuppiesAPI         |   ✅   | React/TS/󠁐NodeJS/Express/MongoDB |                                                                              |
-| 5 | RandomUserAPI      |   ✅   | React/TS/󠁐API                    |   https://github.com/GCMO/React_TypeScript-RandomUserAPI/blob/main/README.md |
+| No|       Projects     | Status |            TechSTack            |                          REPOS                                  |
+|---|:------------------:|-------:|--------------------------------:|----------------------------------------------------------------:|
+| 1 | Portfolio site     |   🛠️   | NextJS/MUI/Styled-Comp          |                                                                 |
+| 2 | Radio-Active       |   ✅   | React/JS/󠁐NodeJS/Express/MongoDB |                                                                 |
+| 3 | React-TS-FullStack |   🛠️   | React/TS/󠁐MongoDB                |                                                                 |
+| 4 | PuppiesAPI         |   ✅   | React/TS/󠁐NodeJS/Express/MongoDB |                                                                 |
+| 5 | RandomUserAPI      |   ✅   | React/TS/󠁐API                    |   https://github.com/GCMO/React_TypeScript-RandomUserAPI        |
 
 
 📫 How to reach me:
-LinkedIn Email Github
+	!(https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
+   Github
+   Email
 
 
 <!--
