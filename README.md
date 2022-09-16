@@ -5,12 +5,13 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 
 ## Personal Projects 
 
-| No|       Projects     | Status |         TechSTack        |    
-|---|:------------------:|-------:|-------------------------:|
-| 1 | Portfolio site     |   🛠️   | NextJS/MUI/Styled-Comp   |
-| 2 | Radio-Active       |   ✅   | MERN                     |
-| 3 | React-TS-FullStack |   🛠️   | React/TS/󠁐MongoDB         |
-| 4 | PuppiesAPI         |   ✅   | React/TS/󠁐NodeJS/Express  |
+| No|       Projects     | Status |            TechSTack            |                                       REPOS                                  |
+|---|:------------------:|-------:|--------------------------------:|-----------------------------------------------------------------------------:|
+| 1 | Portfolio site     |   🛠️   | NextJS/MUI/Styled-Comp          |                                                                              |
+| 2 | Radio-Active       |   ✅   | React/JS/󠁐NodeJS/Express/MongoDB |                                                                              |
+| 3 | React-TS-FullStack |   🛠️   | React/TS/󠁐MongoDB                |                                                                              |
+| 4 | PuppiesAPI         |   ✅   | React/TS/󠁐NodeJS/Express/MongoDB |                                                                              |
+| 5 | RandomUserAPI      |   ✅   | React/TS/󠁐API                    |   https://github.com/GCMO/React_TypeScript-RandomUserAPI/blob/main/README.md |
 
 
 📫 How to reach me:
