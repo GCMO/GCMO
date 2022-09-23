@@ -6,7 +6,7 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 ## Personal Projects 
 
 | No|       Projects     | Status |            TechSTack            |                          REPOS                                  |
-|---|:------------------:|-------:|--------------------------------:|----------------------------------------------------------------:|
+|---|:------------------:|:------:|:-------------------------------:|----------------------------------------------------------------:|
 | 1 | Portfolio site     |   🛠️   | NextJS/MUI/Styled-Comp          |                                                                 |
 | 2 | Radio-Active       |   ✅   | React/JS/󠁐NodeJS/Express/MongoDB |   https://radio-active1337.herokuapp.com/                       |
 | 3 | React-TS-FullStack |   🛠️   | React/TS/󠁐MongoDB                |                                                                 |
