@@ -18,15 +18,15 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 ### Front-End
 
 <p>
-<img align="left" height="35" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png ">
+<img align="left" height="35" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png">
 <img align="left" height="35" src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png">
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
-<img align="left" height="35" src="
+<img align="left" height="35" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
 <img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
-<img align="left" height="35" src="
-<img align="left" height="35" src="
-<img align="left" height="35" src="
-<img align="left" height="35" src="                                 
+<img align="left" height="35" src="https://mui.com/static/logo.png">
+<img align="left" height="35" src="https://www.styled-components.com/atom.png">
+<img align="left" height="35" src="https://seeklogo.com/images/R/react-spring-logo-757E1EF5B5-seeklogo.com.png">
+<img align="left" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0GmBClX2s5fG7CdQuhf0J5uHjCcOeD202Zg&usqp=CAU">                                 
 </p>
 </br>
 
