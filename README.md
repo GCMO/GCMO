@@ -18,8 +18,8 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 ### Front-End
 
 <p>
-<img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png">
-<img align="left" height="35" src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png">
+<img align="left" height="35" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png ">
+<img align="left" height="35" src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png">
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
 <img align="left" height="35" src="
 <img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png">
@@ -33,7 +33,7 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 ### Back-End
 
 <p>
-<img align="left" height="35" src="https://www.kojac.nl/tailwind/images/Backend/nodejs.png"> 
+<img align="left" height="35" src=" https://www.pngitem.com/pimgs/m/1-15848_node-js-node-js-hd-png-download.png"> 
 <img align="left" height="35" src" "> express
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width: 100%;">
 <img align="left" height="35" rest api
