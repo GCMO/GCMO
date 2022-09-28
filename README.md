@@ -33,11 +33,10 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 ### Back-End
 
 <p>
-<img align="left" height="35" src="https://training.objectware.fr/wp-content/uploads/2022/03/NodeJS-768x768.png"> 
-<img align="left" height="35" src"https://expressjs.com/images/express-facebook-share.png">
-<img align="left" height="35" src="https://docs.getxray.app/download/thumbnails/31621455/rest_api2.png?version=2&modificationDate=1600507699924&api=v2">
+<img align="left" height="35" src="https://www.ofunwebservices.com/wp-content/uploads/2018/11/express.png"> 
+<img align="left" height="35" src="https://www.coretech.it/_public/img/video/icon/ApirestFul.png">
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width: 100%;">
-<img align="left" height="35" rest api
+<img align="left" height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
 <img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
 <img align="left" height="35" src=" ">
 <img align="left" height="35" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
