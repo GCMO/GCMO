@@ -18,7 +18,7 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 ### Front-End
 
 <p>
-<img align="left" height="35" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png">
+<img align="left" height="35" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360">
 <img align="left" height="35" src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png">
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;">
 <img align="left" height="35" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg">
@@ -33,8 +33,9 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 ### Back-End
 
 <p>
-<img align="left" height="35" src=" https://www.pngitem.com/pimgs/m/1-15848_node-js-node-js-hd-png-download.png"> 
-<img align="left" height="35" src" "> express
+<img align="left" height="35" src="https://training.objectware.fr/wp-content/uploads/2022/03/NodeJS-768x768.png"> 
+<img align="left" height="35" src"https://expressjs.com/images/express-facebook-share.png">
+<img align="left" height="35" src="https://docs.getxray.app/download/thumbnails/31621455/rest_api2.png?version=2&modificationDate=1600507699924&api=v2">
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width: 100%;">
 <img align="left" height="35" rest api
 <img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
