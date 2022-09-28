@@ -37,8 +37,8 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 <img align="left" height="35" src="https://www.coretech.it/_public/img/video/icon/ApirestFul.png">
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width: 100%;">
 <img align="left" height="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
+<img align="left" height="35" src="https://www.pngfind.com/pngs/m/430-4309574_mongoose-js-logo-hd-png-download.png">
 <img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
-<img align="left" height="35" src=" ">
 <img align="left" height="35" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
 <img align="left" height="35" src="https://www.pngkey.com/png/full/178-1787134_png-file-svg-github-icon-png.png">
 
