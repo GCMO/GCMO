@@ -44,17 +44,16 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 
 </p>
 </br>
-</br>
 
 ### Graphic Design
 
 <p>  
-<img align="left" height="35" src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5cul31AP-4x4ca0qaGM70KjccB65esiiZGn2q5OALbc7ks6XD2H3uYmo7s27Gy_0TnA&usqp=CAU">
-<img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png">
+<img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png">  
+<img align="left" height="35" src="https://thumbs.dreamstime.com/b/adobe-product-logo-collection-set-different-adobe-product-icons-shadow-adobe-product-logo-collection-set-different-212050930.jpg">
 </p>
 </br>
 </br>
-##
+
 
 📫 How to reach me:
 
