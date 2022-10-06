@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Im currently working on boosting my Fullstack with React, NextJS & MongoDB projects. 
-Please share ideas for cool portfolio projects and repos you wish collaboration with. 
+Im currently working on boosting my Fullstack with React, NextJS, React Native & CRUD MongoDB projects. Clicks on the links below to have a look. 
 
 ## Personal Projects 
 
@@ -15,6 +14,8 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 | 6 | Contact List       |   ✅   | ReactNative/React/JS/󠁐ExpoCli/   |   https://github.com/GCMO/ContactList_ReactNative/tree/master   | 
 | 7 | ToDo List          |   ✅   | ReactNative/React/JS/󠁐ExpoCli/   |   https://github.com/GCMO/ToDoList-React_Native                 | 
 | 8 | Calendar           |   ✅   | ReactNative/React/JS/󠁐ExpoCli/   |   https://github.com/GCMO/Calendar01                            | 
+
+Please share ideas for other cool projects and repos you wish collaboration with. 
 
 
 ## TechStack
