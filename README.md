@@ -12,7 +12,9 @@ Please share ideas for cool portfolio projects and repos you wish collaboration 
 | 3 | React-TS-FullStack |   🛠️   | React/TS/󠁐MongoDB                |                                                                 |
 | 4 | PuppiesAPI         |   ✅   | React/TS/󠁐NodeJS/Express/MongoDB |                                                                 |
 | 5 | RandomUserAPI      |   ✅   | React/TS/󠁐API                    |   https://github.com/GCMO/React_TypeScript-RandomUserAPI        |
-| 6 | ContactList        |   ✅   | ReactNative/React/JS/󠁐ExpoCli/   |   https://github.com/GCMO/ContactList_ReactNative/tree/master   | 
+| 6 | Contact List       |   ✅   | ReactNative/React/JS/󠁐ExpoCli/   |   https://github.com/GCMO/ContactList_ReactNative/tree/master   | 
+| 7 | ToDo List          |   ✅   | ReactNative/React/JS/󠁐ExpoCli/   |   https://github.com/GCMO/ToDoList-React_Native                 | 
+
 
 ## TechStack
 ### Front-End
