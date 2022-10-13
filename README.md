@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=9370DB&width=435&lines=Hello%2C+I+am+Marina+Kinalone;full-stack+developer+%26+UX+designer;+background+in+research+and+education;passion+for+learning%2C+creativity...;...and+code+that+sparks+joy!)
+
 <p>
 <img align="left" height="35" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=360">
 <img align="left" height="35" src="https://w7.pngwing.com/pngs/509/571/png-transparent-cascading-style-sheets-logo-css3-html-web-development-world-wide-web-blue-angle-web-design.png">
