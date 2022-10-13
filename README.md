@@ -14,10 +14,11 @@ From economics to programming. I previously worked in the energy & environment i
 | 6 | Contact List       |   ✅   | ReactNative/React/JS/󠁐ExpoCli/   |   https://github.com/GCMO/ContactList_ReactNative/tree/master   | 
 | 7 | ToDo List          |   ✅   | ReactNative/React/JS/󠁐ExpoCli/   |   https://github.com/GCMO/ToDoList-React_Native                 | 
 | 8 | Calendar           |   ✅   | ReactNative/React/JS/󠁐ExpoCli/   |   https://github.com/GCMO/Calendar01                            | 
+| 9 | Notes App          |   ✅   | ReactNative/React/JS/󠁐ExpoCli/   |   https://github.com/GCMO/NOTESApp-React_Native                 | 
 
 Please share ideas for other cool projects and/or repos you wish collaboration with. 
 
-
+https://github.com/GCMO/NOTESApp-React_Native/blob/master/README.md
 ## TechStack
 
 ### Front-End
