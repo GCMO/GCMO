@@ -20,7 +20,6 @@ From economics to programming. I previously worked in the energy & environment i
 
 Please share ideas for other cool projects and/or repos you wish collaboration with. 
 
-https://github.com/GCMO/NOTESApp-React_Native/blob/master/README.md
 ## TechStack
 
 ### Front-End
