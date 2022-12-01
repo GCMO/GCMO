@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-From economics to programming. I previously worked in the energy & environment industry as a consultant. After developing an itch for automating my spreadsheets and developing data dashboard, I started programming more and more. Currently, I'm a FullStack WebDev @ Salt working on boosting my TechStack with React, NextJS, React Native & CRUD MongoDB projects. Clicks on the links below to have a look. 
+From economics to programming. I previously worked in the energy & environment industry as a consultant. After developing an itch for automating my spreadsheets and developing data dashboard, I started programming more and more. Currently, I'm a FullStack WebDev @ Salt working on boosting my TechStack with React, NextJS, React Native & CRUD MongoDB projects. Click on the links below to have a look at my projects. 
 
 ## Personal Projects 
 
