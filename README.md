@@ -16,6 +16,7 @@ From economics to programming. I previously worked in the energy & environment i
 | 8| Calendar           |  ✅  | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/Calendar01                           | 
 | 9| Notes App          |  ✅  | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/NOTESApp-React_Native                | 
 |10| Admin Dashboard    |  ✅  | React/Context/Syncfusion/󠁐Tailwind | https://github.com/GCMO/Admin-Dashboard                      | 
+|11| <SALT> HUB         |  ✅  | NextJS/NextAuth/MUI/󠁐Rest/Azure/SQL| https://salthub-frontend-salthubbies.vercel.app/sales        | 
 
 
 Please share ideas for other cool projects and/or repos you wish collaboration with. 
