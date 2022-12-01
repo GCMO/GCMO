@@ -4,18 +4,18 @@ From economics to programming. I previously worked in the energy & environment i
 
 ## Personal Projects 
 
-| No|       Projects     |Status|            TechSTack               |                        REPOS                                 |
-|---|:------------------:|:----:|:----------------------------------:|-------------------------------------------------------------:|
-| 1 | Portfolio site     |  ✅  | NextJS/MUI/Styled-Comp             | https://gabes-code-treks.onrender.com/                       |
-| 2 | Radio-Active       |  ✅  | React/JS/󠁐NodeJS/Express/MongoDB    | https://radio-active1337.herokuapp.com/                      |
-| 3 | React-TS-FullStack |  🛠️  | React/TS/󠁐MongoDB                   |                                                              |
-| 4 | PuppiesAPI         |  ✅  | React/TS/󠁐NodeJS/Express/MongoDB    |                                                              |
-| 5 | RandomUserAPI      |  ✅  | React/TS/󠁐API                       | https://github.com/GCMO/React_TypeScript-RandomUserAPI       |
-| 6 | Contact List       |  ✅  | ReactNative/React/JS/󠁐ExpoCli/      | https://github.com/GCMO/ContactList_ReactNative/tree/master  | 
-| 7 | ToDo List          |  ✅  | ReactNative/React/JS/󠁐ExpoCli/      | https://github.com/GCMO/ToDoList-React_Native                | 
-| 8 | Calendar           |  ✅  | ReactNative/React/JS/󠁐ExpoCli/      | https://github.com/GCMO/Calendar01                           | 
-| 9 | Notes App          |  ✅  | ReactNative/React/JS/󠁐ExpoCli/      | https://github.com/GCMO/NOTESApp-React_Native                | 
-|10 | Admin Dashboard    |  ✅  | React/Context/Syncfusion/󠁐Tailwind  | https://github.com/GCMO/Admin-Dashboard                      | 
+|No|       Projects     |Status|            TechSTack              |                        REPOS                                 |
+|--|:------------------:|:----:|:---------------------------------:|-------------------------------------------------------------:|
+| 1| Portfolio site     |  ✅  | NextJS/MUI/Styled-Comp            | https://gabes-code-treks.onrender.com/                       |
+| 2| Radio-Active       |  ✅  | React/JS/󠁐NodeJS/Express/MongoDB   | https://radio-active1337.herokuapp.com/                      |
+| 3| React-TS-FullStack |  🛠️  | React/TS/󠁐MongoDB                  |                                                              |
+| 4| PuppiesAPI         |  ✅  | React/TS/󠁐NodeJS/Express/MongoDB   |                                                              |
+| 5| RandomUserAPI      |  ✅  | React/TS/󠁐API                      | https://github.com/GCMO/React_TypeScript-RandomUserAPI       |
+| 6| Contact List       |  ✅  | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/ContactList_ReactNative/tree/master  | 
+| 7| ToDo List          |  ✅  | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/ToDoList-React_Native                | 
+| 8| Calendar           |  ✅  | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/Calendar01                           | 
+| 9| Notes App          |  ✅  | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/NOTESApp-React_Native                | 
+|10| Admin Dashboard    |  ✅  | React/Context/Syncfusion/󠁐Tailwind | https://github.com/GCMO/Admin-Dashboard                      | 
 
 
 Please share ideas for other cool projects and/or repos you wish collaboration with. 
