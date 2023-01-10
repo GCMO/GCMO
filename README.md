@@ -17,7 +17,7 @@ From economics to programming. I previously worked in the energy & environment i
 | 9| Admin Dashboard    |  ✅  | React/Context/Syncfusion/󠁐Tailwind | https://github.com/GCMO/Admin-Dashboard                      | 
 |10| SALT-HUB           |  ✅  | NextJS/NextAuth/MUI/󠁐Rest/Azure/SQL/SWAL| https://salthub-frontend-salthubbies.vercel.app/sales   | 
 |11| SpaceX w/GraphQLApi|  ✅  | React/JS/TS/GraphQL/Apollo/Docker | https://github.com/GCMO/SpaceX_API_FullStack                 |
-|12| React Auth w/ JWT  |  ✅  | React/JS/Context/Rest/JWT         | https://github.com/GCMO/LoginAuth                            | 
+|12| React Auth w/ JWT  |  ✅  | React/JS/Context/Rest/JWT         | https://github.com/GCMO/AuthLogin/tree/master                | 
 
 
 
