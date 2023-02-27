@@ -4,22 +4,19 @@ From economics to programming. I previously worked in the energy & environment i
 
 ## Personal Projects 
 
-|No|       Projects     |Status|            TechSTack              |                        REPOS                                 |
-|--|:------------------:|:----:|:---------------------------------:|-------------------------------------------------------------:|
-| 1| Portfolio site     |  ✅  | NextJS/MUI/Styled-Comp            | https://gabes-code-treks.onrender.com/                       |
-| 2| Radio-Active       |  ✅  | React/JS/󠁐NodeJS/Express/MongoDB   | https://radio-active1337.herokuapp.com/                      |
-| 3| React-TS-FullStack |  🛠️  | React/TS/󠁐MongoDB                  |                                                              |
-| 4| RandomUserAPI      |  ✅  | React/TS/󠁐API                      | https://github.com/GCMO/React_TypeScript-RandomUserAPI       |
-| 5| Contact List       |  ✅  | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/ContactList_ReactNative/tree/master  | 
-| 6| ToDo List          |  ✅  | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/ToDoList-React_Native                | 
-| 7| Calendar           |  ✅  | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/Calendar01                           | 
-| 8| Notes App          |  ✅  | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/NOTESApp-React_Native                | 
-| 9| Admin Dashboard    |  ✅  | React/Context/Syncfusion/󠁐Tailwind | https://github.com/GCMO/Admin-Dashboard                      | 
-|10| SALT-HUB           |  ✅  | NextJS/NextAuth/MUI/󠁐Rest/Azure/SQL/SWAL| https://salthub-frontend-salthubbies.vercel.app/sales   | 
-|11| SpaceX w/GraphQLApi|  ✅  | React/JS/TS/GraphQL/Apollo/Docker | https://github.com/GCMO/SpaceX_API_FullStack                 |
-|12| React Auth w/ JWT  |  ✅  | React/JS/Context/Rest/JWT         | https://github.com/GCMO/AuthLogin/tree/master                | 
-
-
+|No|       Projects    |Status|            TechSTack             |                        REPOS                                 |
+|--|:------------------:|:--:|:---------------------------------:|-------------------------------------------------------------:|
+| 1| Portfolio site     | ✅ | NextJS/MUI/Styled-Comp            | https://gabes-code-treks.onrender.com/                       |
+| 2| Radio-Active       | ✅ | React/JS/󠁐NodeJS/Express/MongoDB   | https://radio-active1337.herokuapp.com/                      |
+| 3| Admin Dashboard    | ✅ | React/Context/Syncfusion/󠁐Tailwind | https://github.com/GCMO/Admin-Dashboard                      | 
+| 4| SALT-HUB           | ✅ | Next/NextAuth/MUI/SWAL/󠁐Rest/Azure/SQL| https://salthub-frontend-salthubbies.vercel.app/sales     | 
+| 5| SpaceX w/GraphQLApi| ✅ | React/JS/TS/GraphQL/Apollo/Docker | https://github.com/GCMO/SpaceX_API_FullStack                 |
+| 6| React Auth w/ JWT  | ✅ | React/JS/Context/Rest/JWT         | https://github.com/GCMO/AuthLogin/tree/master                | 
+| 7| RandomUserAPI      | ✅ | React/TS/󠁐API                      | https://github.com/GCMO/React_TypeScript-RandomUserAPI       |
+| 8| Contact List       | ✅ | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/ContactList_ReactNative/tree/master  | 
+| 9| ToDo List          | ✅ | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/ToDoList-React_Native                | 
+|10| Calendar           | ✅ | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/Calendar01                           | 
+|11| Notes App          | ✅ | ReactNative/React/JS/󠁐ExpoCli/     | https://github.com/GCMO/NOTESApp-React_Native                | 
 
 
 Please share ideas for other cool projects and/or repos you wish collaboration with. 
