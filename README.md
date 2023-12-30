@@ -1,6 +1,6 @@
 ## Brief Intro  <img align="right" src="https://komarev.com/ghpvc/?username=GITHUB-GCMO&label=Profile%20Views&color=008000&style=flat" alt="GITHUB-GCMO"/> 
 
-From economics to programming. I previously worked in the energy & environment industry as a consultant. After developing an itch for automating my spreadsheets and developing data dashboard, I started programming more and more. Currently, I'm a FullStack WebDev @ Salt working on boosting my TechStack with React, NextJS, React Native & CRUD MongoDB projects. Click on the links below to have a look at my projects. 
+From business development to software development: I previously worked in the energy & sustainability industry covering consultanting and business development roles. After developing an itch for automation while streamlining my spreadsheets, I kept learning and pushing my boundaries developing data dashboard, and finally I started programming daily. Currently, I'm a FullStack WebDev @ Salt working on boosting my TechStack with React, NextJS, React Native & CRUD MongoDB projects. Click on the links below to have a look at my projects. 
 
 ## Personal Projects 
 
