@@ -31,10 +31,10 @@ Please share ideas for other cool projects and/or repos you wish collaboration w
 
 
 ### Back-End
-![TechStack](https://skillicons.dev/icons?i=expressjs,nodejs,mongodb,postgres,AWS,firebase,netlify,vercel,graphql,restfullapi,postman,insomnia,)
+![TechStack](https://skillicons.dev/icons?i=expressjs,nodejs,mongodb,postgres,graphql,restfullapi,postman,insomnia,strapi,supabase,)
 
 ### CI/CD & Deployment
-![TechStack](https://skillicons.dev/icons?i=github,docker,kubernet,aws,firebase,vercel,)
+![TechStack](https://skillicons.dev/icons?i=github,docker,kubernetes,aws,firebase,vercel,netlify,contentfull)
 
 ### Graphic Design
 <p>  
