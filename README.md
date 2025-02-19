@@ -27,12 +27,14 @@ Please share ideas for other cool projects and/or repos you wish collaboration w
 ## TechStack
 
 ### Front-End
-![TechStack](https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,redux,styledcomponents,materialui,reactspring,reactnative)
+![TechStack](https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,redux,styledcomponents,materialui,tailwind,threejs, )
 
 
 ### Back-End
-![TechStack](https://skillicons.dev/icons?i=expressjs,nodejs,mongodb,postgres,firebase,netlify,vercel,graphql,restfullapi)
+![TechStack](https://skillicons.dev/icons?i=expressjs,nodejs,mongodb,postgres,AWS,firebase,netlify,vercel,graphql,restfullapi,postman,insomnia,)
 
+### CI/CD & Deployment
+![TechStack](https://skillicons.dev/icons?i=github,docker,kubernet,aws,firebase,vercel,)
 
 ### Graphic Design
 <p>  
